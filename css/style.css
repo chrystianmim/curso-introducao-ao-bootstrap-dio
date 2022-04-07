@@ -1,0 +1,13 @@
+.navbar {
+    background-color: #a04cd8;
+    padding-left: 20px;
+}
+
+.quem-somos {
+    background-color: rgb(219, 230, 240);
+    padding: 50px;
+}
+
+#quem-somos img {
+    margin: 20px;
+}
