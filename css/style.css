@@ -17,6 +17,30 @@
     padding: 50px;
 }
 
-#parceiros img {
+#parceiros .img {
     margin: 20px;
+}
+
+.servicos {
+    padding: 50px;
+}
+
+#servicos .img {
+    margin-top: 20px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+footer a {
+    text-decoration: none;
+    font-style: italic;
+    color: white;
+}
+
+footer p {
+    margin: 0px;
 }
